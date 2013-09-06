@@ -1,3 +1,5 @@
+mysite.db
+
 # Numerous always-ignore extensions
 *.pyc
 *.diff
